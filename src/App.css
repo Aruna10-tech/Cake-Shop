@@ -1,0 +1,32 @@
+.first {
+  color: rgb(90, 4, 18);
+  
+  font-size: 30px;
+}
+
+.second {
+  color: rgb(235, 131, 4);
+ 
+}
+
+.rest {
+  color: rgb(90, 4, 18);
+  
+}
+
+.third {
+  color: rgb(235, 131, 4);
+
+}
+
+.pink{
+  color: rgb(90, 4, 18);
+}
+
+.blue{
+  color: rgb(235, 131, 4);
+}
+
+.zone{
+  margin-left: 9px;
+}
